@@ -1,7 +1,6 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
-Name :
-Roll no 
-Date of experiment :
+Name : K.M.SWETHA
+Roll no :212221240055
 
 Ex. No. : 3
 Date: 
